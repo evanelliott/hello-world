@@ -2,15 +2,16 @@
 My first repository. A place for ideas, resources and discussions.
 
 
-Hi! My name is Evan and I am 24 years old. I am an aspiring data scientist and I work for a company in the UK which specializes in location/GIS data.
+Hi! My name is Evan and I work as a data science consultant in the UK. I am passionate about unlocking value from raw data through carefully executed experiments, and I like building useful tools for data-driven decision making.
 
-My background is in mathematics and meteorology, and my previous work has involved data assimilation (how weather models incorporate observations). I proposed my own Masters thesis topic, suggesting a new way of improving forecasts by assimilating observation tendencies, a.k.a. time-derivatives. Nearly all weather models are built on a Bayesian framework, each new timestep is a combination of prior information, and observation likelihood. Recently, weather models use ensemble methods which means that uncertainties can be represented in future forecasts in a probabilistic manner. My dream is to enhance the world of meteorology by crossing the bridge into data science and bringing back cutting-edge technologies for the good of global weather forecasting.
+I have degrees in Mathematics and Meteorology from the universities of Nottingham and Reading, and my Masters thesis topic was on Bayesian updating via Kalman filters. I have previously worked for the world's largest independent renewable energy company, where I gained valuable experience of the common challenges relating to data products in a commercial setting, including software development best practices and ensuring return on investment.
 
-I choose Python as my tool for data science. I have had a fair amount of experience with libraries NumPy, SciPy and Matplotlib for the purposes of numerical modeling and statistical analysis. I am becoming familiar with Pandas database library, and I am very new to the ScikitLearn machine learning library.
+I am responsible for providing technical consultancy services, and technical expertise in developing intelligent systems with machine learning and other data analytics capabilities. I am proficient in Python and SQL; I have a broad knowledge of the latest data science techniques, and a deep understanding of the process for extracting value from data: including data cleaning, data shaping, feature selection, model training, data and model validation, and model serving.
 
-The topics within data science which I like the most are the high-end technical areas like machine learning, neural networks, and deep learning (and it would seem I am not alone in this taste). I am also a fan of visualization as I believe there's no better way to transfer knowledge than through well-designed infographics.
+I am also a fan of visualization as I believe there's no better way to transfer knowledge than through well-designed infographics.
 
 Get in touch if you would like to chat or suggest a project to work on together!
 
 Thanks & happy coding,
+
 Evan
